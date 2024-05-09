@@ -71,7 +71,7 @@ h3 {
 .lesson-card {
   display: inline-block;
   width: 22.5%;
-  margin-left: 20px;
+  margin-left: 15px;
   text-align: center;
   box-shadow: 0 0 6px #e8e8e8;
   background-color: #fff;
@@ -271,6 +271,13 @@ h3 {
   }
   .lesson-card {
     width: 43%;
-    margin-bottom: 25px;
+    margin-bottom: 15px;
+  }
+  .modal-inner {
+    width: 90%;
+  }
+  .modal-introduction p {
+    width: 85%;
+    text-align: center;
   }
 }
